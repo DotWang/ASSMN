@@ -6,7 +6,7 @@
 
 1. Install Pytorch 1.1 with Python 3.5.
 
-2. Clone this repo
+2. Clone this repo.
 
 ```
 git clone https://github.com/DotWang/ASSMN.git
@@ -34,7 +34,7 @@ CUDA_VISIBLE_DEVICES=0 python trainval.py \
 &emsp; &ensp; Then the assessment results are recorded in the corresponding ***\*.mat*** file and the generated model is saved.
 
 
-4. Predicting with ***infer.py***
+4. Predicting with ***infer.py***.
 
 ```
 CUDA_VISIBLE_DEVICES=0 python infer.py \
