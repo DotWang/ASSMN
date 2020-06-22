@@ -12,7 +12,9 @@
 git clone https://github.com/DotWang/ASSMN.git
 ```
 
-3. Training and evaluation with ***trainval.py***
+3. Training and evaluation with ***trainval.py***.
+
+      For example, for [KSC dataset](http://www.ehu.es/ccwintco/uploads/2/26/KSC.mat), if SeMN and SaMN are all employed:
 
 ```
 CUDA_VISIBLE_DEVICES=0 python trainval.py \
@@ -27,7 +29,10 @@ CUDA_VISIBLE_DEVICES=0 python trainval.py \
 	--group 'alternate' --seq 'cascade' \
 	--npi-num 2
 ```
-Then the assessment results are memoried in the corresponding ***\*.mat*** file and the generated model is saved.
+
+
+&emsp; &ensp; Then the assessment results are memoried in the corresponding ***\*.mat*** file and the generated model is saved.
+
 
 4. Predicting with ***infer.py***
 
@@ -39,7 +44,7 @@ CUDA_VISIBLE_DEVICES=0 python infer.py \
       --bz 50000 \
       --scheme 2 --strategy 's2' 
 ```
-And then producing the final classification map.
+&emsp; &ensp; And then producing the final classification map.
 
 ## Paper and Citation
 
