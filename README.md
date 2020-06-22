@@ -31,7 +31,7 @@ CUDA_VISIBLE_DEVICES=0 python trainval.py \
 ```
 
 
-&emsp; &ensp; Then the assessment results are memoried in the corresponding ***\*.mat*** file and the generated model is saved.
+&emsp; &ensp; Then the assessment results are recorded in the corresponding ***\*.mat*** file and the generated model is saved.
 
 
 4. Predicting with ***infer.py***
