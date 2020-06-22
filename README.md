@@ -1,5 +1,7 @@
 # Adaptive Spectral-Spatial Multiscale Network for Hyperspectral Image Classification
 
+Pytorch implementation of our method for hyperspectral image classification.
+
 ![](https://github.com/DotWang/ASSMN/blob/master/model.png)
 
 ## Usage
