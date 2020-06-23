@@ -16,11 +16,11 @@ git clone https://github.com/DotWang/ASSMN.git
 
 3. Training and evaluation with ***trainval.py***.
 
-      For example, for [KSC dataset](http://www.ehu.es/ccwintco/uploads/2/26/KSC.mat), if SeMN and SaMN are all employed:
+      For example, for [Indian Pines dataset](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes), if SeMN and SaMN are all employed:
 
 ```
 CUDA_VISIBLE_DEVICES=0 python trainval.py \
-	--dataset 'ksc' \
+	--dataset 'indian' \
 	--dr-num 4 --dr-method 'pca' \
 	--mi -1 --ma 1 \
 	--half-size 13 --rsz 27 \
@@ -40,7 +40,7 @@ CUDA_VISIBLE_DEVICES=0 python trainval.py \
 
 ```
 CUDA_VISIBLE_DEVICES=0 python infer.py \
-      --dataset 'ksc' \
+      --dataset 'indian' \
       --mi -1 --ma 1 \
       --half-size 13 --rsz 27 \
       --bz 50000 \
