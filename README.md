@@ -36,7 +36,7 @@ CUDA_VISIBLE_DEVICES=0 python trainval.py \
 &emsp; &ensp; Then the assessment results are recorded in the corresponding ***\*.mat*** file and the generated model is saved.
 
 
-4. Predicting with ***infer.py***.
+4.  Predicting with the previous stored model through ***infer.py***
 
 ```
 CUDA_VISIBLE_DEVICES=0 python infer.py \
@@ -46,7 +46,7 @@ CUDA_VISIBLE_DEVICES=0 python infer.py \
       --bz 50000 \
       --scheme 2 --strategy 's2' 
 ```
-&emsp; &ensp; And then producing the final classification map.
+&emsp; &ensp; and then produce the final classification map.
 
 ## Paper and Citation
 
