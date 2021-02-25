@@ -53,15 +53,16 @@ CUDA_VISIBLE_DEVICES=0 python infer.py \
 If this repo is useful for your research, please cite our [paper](https://doi.org/10.1109/TGRS.2020.2999957).
 
 ```
-@ARTICLE{2020ASSMN,
+@ARTICLE{9121743,
   author={D. {Wang} and B. {Du} and L. {Zhang} and Y. {Xu}},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={Adaptive Spectral-Spatial Multiscale Contextual Feature Extraction for Hyperspectral Image Classification}, 
-  year={2020},
-  pages={1-17},
-  doi={10.1109/TGRS.2020.2999957},
-  url={https://doi.org/10.1109/TGRS.2020.2999957},
-}
+  title={Adaptive Spectral–Spatial Multiscale Contextual Feature Extraction for Hyperspectral Image Classification}, 
+  year={2021},
+  volume={59},
+  number={3},
+  pages={2461-2477},
+  doi={10.1109/TGRS.2020.2999957}
+  }
 ```
 
 ## Acknowledgement
