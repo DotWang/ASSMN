@@ -1,6 +1,6 @@
 # Adaptive Spectral–Spatial Multiscale Contextual Feature Extraction for Hyperspectral Image Classification
 
-## [Di Wang](https://github.com/DotWang/), Bo Du, Liangpei Zhang and [Yonghao Xu](https://github.com/YonghaoXu)
+## [D.Wang](https://github.com/DotWang/), B.Du, L.Zhang and [Y.Xu](https://github.com/YonghaoXu)
 
 ### Update 2021.07: ASSMN won the Highly Cited Paper.
 
