@@ -1,4 +1,8 @@
-# Adaptive Spectral-Spatial Multiscale Network for Hyperspectral Image Classification
+# Adaptive Spectral–Spatial Multiscale Contextual Feature Extraction for Hyperspectral Image Classification
+
+## [Di Wang](https://github.com/DotWang/), Bo Du, Liangpei Zhang and [Yonghao Xu](https://github.com/YonghaoXu)
+
+### Updata 2021.07: ASSMN won the Highly Cited Paper.
 
 Pytorch implementation of our method for hyperspectral image classification.
 
