@@ -2,13 +2,17 @@
 
 ## [Di Wang](https://github.com/DotWang/), Bo Du, Liangpei Zhang and [Yonghao Xu](https://github.com/YonghaoXu)
 
-### Updata 2021.07: ASSMN won the Highly Cited Paper.
+### Update 2021.07: ASSMN won the Highly Cited Paper.
 
-Pytorch implementation of our method for hyperspectral image classification.
+![](https://github.com/DotWang/ASSMN/blob/master/highcited.png)
+
+
+
+## Framework
 
 ![](https://github.com/DotWang/ASSMN/blob/master/model.png)
 
-## Usage
+## Usage (Pytorch implementation)
 
 1. Install Pytorch 1.1 with Python 3.5.
 
