@@ -1,11 +1,10 @@
 # Adaptive Spectral–Spatial Multiscale Contextual Feature Extraction for Hyperspectral Image Classification
 
-## [D. Wang](https://github.com/DotWang/), B. Du, L. Zhang and [Y. Xu](https://github.com/YonghaoXu)
+### Di Wang, Bo Du, Liangpei Zhang and Yonghao Xu
 
 ### Update 2021.07: ASSMN won the Highly Cited Paper.
 
 ![](https://github.com/DotWang/ASSMN/blob/master/highcited.png)
-
 
 
 ## Framework
@@ -76,4 +75,7 @@ If this repo is useful for your research, please cite our [paper](https://doi.or
 ## Acknowledgement
 Thanks [Andrea Palazzi](https://github.com/ndrplz/ConvLSTM_pytorch) for providing the Pytorch implementation of Convolutional LSTM!
 
-
+## Relevant Projects
+[1] <strong> Image-level/Patch-free Hyperspectral Image Classification </strong> 
+<br> &ensp; &ensp; Fully Contextual Network for Hyperspectral Scene Parsing, IEEE TGRS, 2022
+<br><em> &ensp; &ensp; Di Wang<sup>&#8727;</sup>, Bo Du, and Liangpei Zhang</em> | [Paper](https://ieeexplore.ieee.org/document/9347487) | [Github](https://github.com/DotWang/FullyContNet)
