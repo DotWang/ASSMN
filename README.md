@@ -79,3 +79,8 @@ Thanks [Andrea Palazzi](https://github.com/ndrplz/ConvLSTM_pytorch) for providin
 [1] <strong> Image-level/Patch-free Hyperspectral Image Classification </strong> 
 <br> &ensp; &ensp; Fully Contextual Network for Hyperspectral Scene Parsing, IEEE TGRS, 2022 | [Paper](https://ieeexplore.ieee.org/document/9347487) | [Github](https://github.com/DotWang/FullyContNet)
  <br><em> &ensp; &ensp; Di Wang<sup>&#8727;</sup>, Bo Du, and Liangpei Zhang</em>
+
+[2] <strong> Graph Convolution based Hyperspectral Image Classification </strong> 
+<br> &ensp; &ensp; Spectral-Spatial Global Graph Reasoning for Hyperspectral Image Classification, IEEE TNNLS, 2023 | [Paper](https://arxiv.org/abs/2106.13952) | [Github](https://github.com/DotWang/SSGRN)
+ <br><em> &ensp; &ensp; Di Wang<sup>&#8727;</sup>, Bo Du, and Liangpei Zhang</em>
+
