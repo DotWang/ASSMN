@@ -1,4 +1,4 @@
-# Adaptive Spectral–Spatial Multiscale Contextual Feature Extraction for Hyperspectral Image Classification (TGRS 2021)
+# Adaptive Spectral–Spatial Multiscale Contextual Feature Extraction for Hyperspectral Image Classification (TGRS 2020)
 
 ### Di Wang, Bo Du, Liangpei Zhang and Yonghao Xu
 
