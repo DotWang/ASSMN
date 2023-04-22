@@ -1,4 +1,4 @@
-# Adaptive Spectral–Spatial Multiscale Contextual Feature Extraction for Hyperspectral Image Classification
+# Adaptive Spectral–Spatial Multiscale Contextual Feature Extraction for Hyperspectral Image Classification (TGRS 2021)
 
 ### Di Wang, Bo Du, Liangpei Zhang and Yonghao Xu
 
@@ -83,4 +83,11 @@ Thanks [Andrea Palazzi](https://github.com/ndrplz/ConvLSTM_pytorch) for providin
 [2] <strong> Graph Convolution based Hyperspectral Image Classification </strong> 
 <br> &ensp; &ensp; Spectral-Spatial Global Graph Reasoning for Hyperspectral Image Classification, IEEE TNNLS, 2023 | [Paper](https://arxiv.org/abs/2106.13952) | [Github](https://github.com/DotWang/SSGRN)
  <br><em> &ensp; &ensp; Di Wang<sup>&#8727;</sup>, Bo Du, and Liangpei Zhang</em>
+ 
+[3] <strong> Neural Architecture Search for Hyperspectral Image Classification </strong> 
+<br> &ensp; &ensp; HKNAS: Classification of Hyperspectral Imagery Based on Hyper Kernel Neural Architecture Search, IEEE TNNLS, 2023 | Paper | [Github](https://github.com/DotWang/HKNAS)
+ <br><em> &ensp; &ensp; Di Wang<sup>&#8727;</sup>, Bo Du, Liangpei Zhang, and Dacheng Tao</em>
 
+[4] <strong> Neural Architecture Search for Hyperspectral Image Classification </strong> 
+<br> &ensp; &ensp; DCN-T: Dual Context Network with Transformer for Hyperspectral Image Classification, IEEE TIP, 2023 | [Paper](https://arxiv.org/abs/2304.09915) | [Github](https://github.com/DotWang/DCN-T)
+ <br><em> &ensp; &ensp; Di Wang<sup>&#8727;</sup>, Jing Zhang, Bo Du, Liangpei Zhang, and Dacheng Tao</em>
